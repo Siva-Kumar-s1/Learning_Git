@@ -7,3 +7,6 @@ Some Description!
 
 Welcome to Git Learning World!
 
+## Local Development
+
+1. Open index.html in your browser
